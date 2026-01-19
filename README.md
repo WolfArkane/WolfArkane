@@ -1,53 +1,53 @@
-<h1> Hello < Developers/ > !</h1>
-<p align='center'>
-</p>
+# Hey there 👋
 
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile+!;Hi,+I’m+PheonixShell;I'm+a+French+Student" /></a>
-</p>
+I'm a **21-year-old French student** passionate about computers and cybersecurity. I love building stuff, breaking stuff (ethically), and learning how things work under the hood.
 
-- 👋 Hi, I’m Arkane
-- 💼 I'm a French Student
-- 👯 I'm passionate by development and computer science !
+## 🧑‍💻 About Me
 
-<h2> Skills </h2>
+```python
+class Developer:
+    def __init__(self):
+        self.location = "France 🇫🇷"
+        self.age = 21
+        self.role = "Student & Developer"
+        self.interests = ["Cybersecurity", "Coding", "Coffee"]
+        self.learning = "Always something new"
+    
+    def say_hi(self):
+        print("Feel free to check out my projects!")
+```
 
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
+Currently studying and exploring the worlds of development and security. Always curious, always learning.
 
-   <a href="https://nodejs.org/" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.Js-43B02A?style=for-the-badge&logo=node.js&logoColor=white">
-  </a>
-  
-  <a href="https://nodejs.org/" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white">
-  </a>
+## 🛠️ Tech Stack
 
-<h2> Github Stats (Expand to View) </h2>
+Languages and tools I work with:
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="WolfArkane's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WolfArkane&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WolfArkane&show_icons=true&locale=en&layout=compact&theme=algolia" alt="WolfArkane" height="192px"/>
-  <br/>
-  </p>
-</details>
+- **Python** 🐍 - My go-to for scripting and automation
+- **Java** ☕ - For when things need to be robust
+- **JavaScript** - Making the web interactive
+- **HTML/CSS** - Building the web
+- **Node.js** - Backend magic
+- **Bash** - Terminal is home
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/WolfArkane"><img alt="WolfArkane's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=WolfArkane&custom_title=WolfArkane's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+## 🔐 Interests
 
-</details>
+- 🛡️ Cybersecurity & Ethical Hacking
+- 🌐 Web Development
+- 🐧 Linux & System Administration
+- 🚩 CTF Challenges
+- 🔧 Automation & Scripting
 
-----------------------------------------------------------------------
-Inspired by : [aastha12](https://github.com/aastha12)
+---
 
-Last Edited on: 29/08/2022
+💡 *"Code, break, learn, repeat."*
+
+⭐ Feel free to explore my repos and drop a star if you find something interesting!
